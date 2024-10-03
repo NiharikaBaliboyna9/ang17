@@ -8,7 +8,9 @@ ls ./dist
 cd ./dist
 echo "cd then ls -a"
 ls -a
-cd ..
+echo "ls angular-new"
+cd angular-new
+ls -a
 echo "ls dist/angular-new"
 ls ./dist/angular-new
 
