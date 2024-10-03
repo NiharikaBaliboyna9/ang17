@@ -1,4 +1,11 @@
 #!/bin/bash
+pwd
+
+ls
+
+ls ./dist
+
+ls ./dist/angular-new
 
 rm -rf ./.amplify-hosting
 
