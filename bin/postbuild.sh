@@ -5,6 +5,10 @@ echo "ls"
 ls
 echo "ls dist"
 ls ./dist
+cd ./dist
+echo "cd then ls -a"
+ls -a
+cd ..
 echo "ls dist/angular-new"
 ls ./dist/angular-new
 
