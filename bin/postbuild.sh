@@ -1,10 +1,11 @@
 #!/bin/bash
+echo "pwd"
 pwd
-
+echo "ls"
 ls
-
+echo "ls dist"
 ls ./dist
-
+echo "ls dist/angular-new"
 ls ./dist/angular-new
 
 rm -rf ./.amplify-hosting
